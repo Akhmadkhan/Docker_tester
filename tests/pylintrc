@@ -1,0 +1,6 @@
+[MAIN]
+ignore=tests
+
+[MESSAGES CONTROL]
+disable=all
+enable=main, basic, format, classes, design, imports, typecheck, variables, refactoring, string
