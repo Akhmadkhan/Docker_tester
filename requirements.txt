@@ -1,0 +1,5 @@
+celery==5.2.7
+Flask==2.2.2
+Flask_Login==0.6.2
+lti==0.9.5
+Werkzeug==2.2.2
